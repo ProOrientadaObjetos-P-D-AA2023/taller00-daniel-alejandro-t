@@ -12,7 +12,7 @@ package paquete5;
 public class Dato {
     
     public static int obtenerNumeroHombres(){
-        return 200111;
+        return 400322;
     }
     
     public static int obtenerNumeroMujeres(){
